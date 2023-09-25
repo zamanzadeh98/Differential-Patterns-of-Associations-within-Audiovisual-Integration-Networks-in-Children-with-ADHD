@@ -20,3 +20,6 @@ Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental conditio
 
 **Results**:
 ![Alt Text](Pictures/results.png)
+
+
+**How to use:**
