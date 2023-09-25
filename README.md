@@ -16,3 +16,7 @@ Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental conditio
 1. [XGBoost](https://xgboost.readthedocs.io/en/stable/)
 2. [Balanced Random forest](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.BalancedRandomForestClassifier.html)
 3. [EasyEnsemble](https://imbalanced-learn.org/stable/references/generated/imblearn.ensemble.BalancedRandomForestClassifier.html)
+
+
+**Results**:
+![Alt Text](Pictures/results.png)
