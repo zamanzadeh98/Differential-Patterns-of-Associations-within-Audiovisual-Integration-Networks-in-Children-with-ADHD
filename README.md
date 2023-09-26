@@ -22,4 +22,9 @@ Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental conditio
 ![Alt Text](Pictures/results.png)
 
 
-**How to use:**
+**Getting started:**
+```# Clone the repository
+git clone https://github.com/yourusername/your-repo.git
+
+# Change into the project directory
+cd your-repo```
