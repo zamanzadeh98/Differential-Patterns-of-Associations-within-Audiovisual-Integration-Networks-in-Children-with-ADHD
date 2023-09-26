@@ -24,7 +24,7 @@ Attention deficit hyperactivity disorder (ADHD) is a neurodevelopmental conditio
 
 **Getting started:**
 ```# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone[https://github.com/yourusername/your-repo.git](https://github.com/zamanzadeh98/Differential-Patterns-of-Associations-within-Audiovisual-Integration-Networks-in-Children-with-ADHD.git)https://github.com/zamanzadeh98/Differential-Patterns-of-Associations-within-Audiovisual-Integration-Networks-in-Children-with-ADHD.git
 
 # Change into the project directory
 cd your-repo```
