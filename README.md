@@ -28,3 +28,8 @@ git clone[https://github.com/yourusername/your-repo.git](https://github.com/zama
 
 # Change into the project directory
 cd your-repo```
+
+
+```python
+from FeatureExtraction import FeatureExract
+features = FeatureExract(x, path)
